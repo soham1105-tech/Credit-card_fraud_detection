@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-A Machine Learning project built using Python and Scikit-learn to detect fraudulent credit card transactions using Logistic Regression. This project demonstrates the complete ML workflow including preprocessing, model training, prediction, and evaluation.
+A Machine Learning project built using Python and Scikit-learn to detect fraudulent credit card transactions using Logistic Regression. This project demonstrates the complete ML workflow, including preprocessing, model training, prediction, and evaluation.
 
 ## Overview
 
@@ -32,6 +32,11 @@ The model shows strong generalization with minimal overfitting.
 ## Dataset
 
 Dataset Source:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+## Colab Notebook
+
+Colab Notebook link: 
 https://colab.research.google.com/drive/1LwsCJJNIJ9M6l-k-rWOU5MWwPRzMuiXg?usp=sharing
 
 ## Conclusion
